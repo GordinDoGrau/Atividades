@@ -1,8 +1,9 @@
 #include <stdio.h>
 
+    int i;
+
 int main(void)
 {
-    int i;
 
     printf("Digite sua idade: ");
     scanf("%d", &i);
